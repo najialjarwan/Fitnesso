@@ -4,7 +4,7 @@ $title = 'Fitnesso - Home';
 $content = '
 <div class="container">
     <div class="overlay">
-        <video autoplay muted loop id="background-video">
+        <video autoplay muted loop playsinline id="background-video">
             <source src="Images/hero_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
