@@ -37,8 +37,8 @@
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-        <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="40" title="HTML5" />&nbsp;&nbsp;
-        <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="40" title="CSS3" />&nbsp;&nbsp;
+        <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="40" title="HTML5" />
+        <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="40" title="CSS3" />
         <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="40" title="JavaScript" />
     </td>
   </tr>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td><strong>Hosting</strong></td>
-    <td><img src="https://najialjarwan.vercel.app/external-icons/infinityfree.svg" height="40" title="InfinityFree" />&nbsp;&nbsp;</td>
+    <td><img src="https://najialjarwan.vercel.app/external-icons/infinityfree.svg" height="40" title="InfinityFree" /></td>
   </tr>
     <tr>
     <td><strong>Tools</strong></td>
-    <td><img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" />&nbsp;&nbsp;</td>
+    <td><img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" /></td>
   </tr>
 </table>
 
