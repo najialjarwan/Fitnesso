@@ -65,7 +65,7 @@ Humans scan images first, so keep it near the top.
   </tr>
     <tr>
     <td><strong>Tools</strong></td>
-    <td></td>
+    <td><img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" />&nbsp;&nbsp;</td>
   </tr>
 </table>
 
