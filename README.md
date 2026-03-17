@@ -15,7 +15,7 @@
 
 ## 📸 Showcase
 <div align="center">
-  <img src="Images/fitnesso-showcase.gif" width="800" title="Fitnesso Quick Look" alt="Fitnesso GIF screenshots showcase" />
+  <img src="Images/fitnesso-showcase.gif" width="100%" title="Fitnesso Quick Look" alt="Fitnesso GIF screenshots showcase" />
 </div>
 
 
