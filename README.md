@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td><img src="https://najialjarwan.vercel.app/external-icons/php.svg" height="40" title="PHP" />&nbsp;&nbsp;</td>
+    <td><img src="https://najialjarwan.vercel.app/external-icons/php.svg" height="40" title="PHP" /></td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
-    <td><img src="https://najialjarwan.vercel.app/external-icons/mysql.svg" height="40" title="MySQL" />&nbsp;&nbsp;</td>
+    <td><img src="https://najialjarwan.vercel.app/external-icons/mysql.svg" height="40" title="MySQL" /></td>
   </tr>
   <tr>
     <td><strong>Hosting</strong></td>
