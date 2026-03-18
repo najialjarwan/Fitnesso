@@ -20,20 +20,31 @@
 
 
 ## 🔷 Project Overview
-<table>
-<tr><td>Type</td><td>university project</td></tr>
-<tr><td>My role</td><td>full-stack</td></tr>
-<tr><td>Platform</td><td>website</td></tr>
-<tr><td>Duration</td><td>spring 2024 & fall 2024</td></tr>
-<tr><td>Status</td><td>completed</td></tr>
-<tr><td>Version</td><td>1.0.0</td></tr>
-<tr><td>Live Demo</td><td>https://fitnesso.ct.ws</td></tr>
+<table align="center">
+  <tr>
+    <td><strong>Type</strong></td>
+    <td><strong>My role</strong></td>
+    <td><strong>Platform</strong></td>
+    <td><strong>Duration</strong></td>
+    <td><strong>Status</strong></td>
+    <td><strong>Version</strong></td>
+    <td><strong>Live Demo</strong></td>
+  </tr>
+  <tr>
+    <td>university project</td>
+    <td>full-stack</td>
+    <td>website</td>
+    <td>spring 2024 & fall 2024</td>
+    <td>completed</td>
+    <td>1.0.0</td>
+    <td>https://fitnesso.ct.ws</td>
+  </tr>
 </table>
 
 
 ## ⚙️ Tech Stack & Tools
 
-<table>
+<table align="center">
   <tr>
     <td><strong>Frontend</strong></td>
     <td><strong>Backend</strong></td>
@@ -43,21 +54,21 @@
   </tr>
   <tr>
     <td>
-        <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="40" title="HTML5" />
-        <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="40" title="CSS3" />
-        <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="40" title="JavaScript" />
+      <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="40" title="HTML5" />
+      <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="40" title="CSS3" />
+      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="40" title="JavaScript" />
     </td>
     <td>
-      <img src="https://najialjarwan.vercel.app/external-icons/php.svg" height="40" title="PHP" />
+      &nbsp;&nbsp;&nbsp;<img src="https://najialjarwan.vercel.app/external-icons/php.svg" height="40" title="PHP" />
     </td>
     <td>
-      <img src="https://najialjarwan.vercel.app/external-icons/mysql.svg" height="40" title="MySQL" />
+      &nbsp;&nbsp;&nbsp;<img src="https://najialjarwan.vercel.app/external-icons/mysql.svg" height="40" title="MySQL" />
     </td>
     <td>
-      <img src="https://najialjarwan.vercel.app/external-icons/infinityfree.svg" height="40" title="InfinityFree" />
+      &nbsp;&nbsp;&nbsp;<img src="https://najialjarwan.vercel.app/external-icons/infinityfree.svg" height="40" title="InfinityFree" />
     </td>
     <td>
-      <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" />
+      &nbsp;<img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" />
     </td>
   </tr>
 </table>
