@@ -27,7 +27,7 @@
 <tr><td>Duration</td><td>spring 2024 & fall 2024</td></tr>
 <tr><td>Status</td><td>completed</td></tr>
 <tr><td>Version</td><td>1.0.0</td></tr>
-<tr><td>Live Demo</td><td>https://fitnesso.ct.ws/</td></tr>
+<tr><td>Live Demo</td><td>https://fitnesso.ct.ws</td></tr>
 </table>
 
 
